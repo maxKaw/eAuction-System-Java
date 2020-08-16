@@ -30,6 +30,6 @@ Admin:
 # Screenshots of the consol application
 <img src="Screenshots/screenshot1.png"></img>
 <img src="Screenshots/screenshot2.png"></img>
-<img src="Screenshots/screenshot3.png"></img>
-<img src="Screenshots/screenshot4.png"></img>
-<img src="Screenshots/screenshot5.png"></img>
+<img src="Screenshots/screenshot3.PNG"></img>
+<img src="Screenshots/screenshot4.PNG"></img>
+<img src="Screenshots/screenshot5.PNG"></img>
