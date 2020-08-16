@@ -28,8 +28,13 @@ Admin:
 - Username: Glyn, Password: 123a
 
 # Screenshots of the consol application
-<img src="Screenshots/screenshot1.png"></img>
-<img src="Screenshots/screenshot2.png"></img>
-<img src="Screenshots/screenshot3.PNG"></img>
-<img src="Screenshots/screenshot4.PNG"></img>
+Buyer menu
+<img src="Screenshots/screenshot1.png"></img></br>
+Seller menu
+<img src="Screenshots/screenshot2.png"></img></br>
+Active auctions
+<img src="Screenshots/screenshot3.PNG"></img></br>
+Process of adding an item
+<img src="Screenshots/screenshot4.PNG"></img></br>
+Update from the system about the finished auction and still active auctions
 <img src="Screenshots/screenshot5.PNG"></img>
