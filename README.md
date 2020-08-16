@@ -1,4 +1,4 @@
-# eAuction-System-Java
+# eAuction System Java
 
  eAuction system is a program built with Java programming language, with use of the best practices and it is consol based application. 
  The whole system was written in accordance with Object-Oriented programming paradigm, and even though it is consol based application, it can be easily embedded in any other environment.
