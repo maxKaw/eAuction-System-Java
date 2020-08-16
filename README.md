@@ -41,4 +41,4 @@ Update from the system about the finished auction and still active auctions</br>
 
 # Contributors
 - Maksymilian Kawula
-- Philip Hughes
+- Phillip Hughes
