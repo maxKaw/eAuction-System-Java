@@ -38,7 +38,3 @@ Process of adding an item</br>
 <img src="Screenshots/screenshot4.PNG"></img></br></br>
 Update from the system about the finished auction and still active auctions</br>
 <img src="Screenshots/screenshot5.PNG"></img>
-
-# Contributors
-- Maksymilian Kawula
-- Phillip Hughes
