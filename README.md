@@ -17,7 +17,7 @@
 
 Buyers:
 - Username: Bob, Password: 123
-- Username: Bikl, Password: 123
+- Username: Bill, Password: 123
 - Username: Ben, Password: 123
 
 Sellers:
