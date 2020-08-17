@@ -1,6 +1,6 @@
 # eAuction System Java
 
- eAuction system is a program built with Java programming language with the use of the best practices. 
+ eAuction system is a software built with Java programming language with the use of the best practices. 
  The whole system was written in accordance with Object-Oriented programming paradigm, so even though it is console-based application, it can be easily embedded in any other environment.
  
  eAuction system is a typical system with auctions where the registered users can buy and sell various items by a bidding system.
